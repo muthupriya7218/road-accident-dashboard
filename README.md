@@ -82,8 +82,14 @@ road-accident-dashboard/
 
 ## Screenshots
 
-![Dashboard Preview](assets/dashboard_screenshot.png)  
-![Pivot Table Example](assets/pivot_table_sample.png)  
+**Dashboard Overview**
+
+![Dashboard Preview](assets/dashboard_screenshot.png)
+
+**Pivot Table Example**
+
+![Pivot Table Example](assets/pivot_table_screenshot.png)
+
 
 
 
